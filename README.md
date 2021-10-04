@@ -10,7 +10,8 @@
 7. Installation docs for DigitalOcean Ubuntu 20.04 is given below.
 ```
 
-## Api is Available at https://github.com/twoabd/CompressioWeb/tree/main/api
+## API is Available at 
+https://github.com/twoabd/CompressioWeb/tree/main/api
 
 ## How to Use API
 
